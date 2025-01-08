@@ -1,7 +1,7 @@
 //////////////////////
 // web code에서 테스트함.
 // 웹 코드에서는 cargo doc --open 이 안됨.
-
+// openSUSE Tumbleweed 에서 테스트 완료.
 
 // 라이브러리
 use std::io;
