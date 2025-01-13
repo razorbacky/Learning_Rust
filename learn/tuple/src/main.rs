@@ -17,6 +17,7 @@ fn main() {
     let a = [1, 2, 3, 4, 5];
     let index = 10;
 
+    // 이 과정에서 컴파일은 가능하나 프로그램 실행 시에 오류가 발생한다.
     let element = a[index];
 
     let first = a[0];
