@@ -2,6 +2,7 @@
 // web code에서 테스트함.
 // 웹 코드에서는 cargo doc --open 이 안됨.
 // openSUSE Tumbleweed 에서 테스트 완료.
+// target 테스트를 위한 수정
 
 // 라이브러리
 use std::io;
